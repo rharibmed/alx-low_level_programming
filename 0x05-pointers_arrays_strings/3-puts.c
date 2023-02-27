@@ -5,13 +5,16 @@
  * @str: string pointer
  * Return: void
  */
+
 void _puts(char *str);
+
 /**
  * _puts - function definition
  * Description: prints a string
  * @str: the string pointer
  * Return: void
  */
+
 void _puts(char *str)
 {
 int index;
